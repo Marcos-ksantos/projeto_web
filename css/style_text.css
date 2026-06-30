@@ -3,3 +3,29 @@ selctor{
     propriedade: valor;
     propriedade: valor;
 }*/    
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: rgb(154, 192, 136);
+}
+
+p{
+    font-family: Helvetica;
+    text-align: justify;
+    line-height: 19px;
+    color: rgb(155, 153, 71);
+}
+
+#paragrafo01{
+color: rgb(66, 124, 163);
+}
+
+#paragrafo{
+    color: rgb(114, 148, 82);
+}
+
+.paragrafos{
+    font-family: 'Courier New', Courier, monospace;
+}
